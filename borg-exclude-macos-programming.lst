@@ -25,8 +25,10 @@
 
 ################################
 # Exclusions up for discussion #
-# *.pyc			       #
-# ! **/build/		       #
-# ! **/dist/		       #
-# ! **/vendor/		       #
+- *.pyc			       #
+! **/build/		       #
+! **/dist/		       #
+! **/vendor/		       #
 ################################
+
+! **/.venv/

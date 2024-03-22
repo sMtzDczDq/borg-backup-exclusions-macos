@@ -1,0 +1,27 @@
+! **/Application Support/Bisq
+! **/Application Support/Caches
+! **/Application Support/Chromium
+! **/Application Support/Code
+! **/Application Support/Firefox
+! **/Application Support/Google
+! **/Application Support/Microsoft
+! **/Application Support/Microsoft Edge
+! **/Application Support/MobileSync/Backup
+! **/Library/Containers/Mail
+! **/.local/pipx
+! **/.local/share
+
+! **/Library/**/Developer/
+! **/Software/mac
+! **/Software/macos
+! **/Download/temp
+! **Users/*/mount
+
+! **/.nuget
+! **/.rustup
+! **/.cargo
+! **/go
+! **/.gradle
+! **/build/
+! **/dist/
+! **/vendor/

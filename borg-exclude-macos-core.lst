@@ -98,6 +98,7 @@
 - /run/
 - /sys/
 - /var/backups/
+! **Users/*/Library/Mobile Documents
 
 ##################################
 # Exclusions up for discussion	 #

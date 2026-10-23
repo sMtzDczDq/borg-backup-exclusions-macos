@@ -8,14 +8,14 @@
 ! **/Application Support/Microsoft Edge
 ! **/Application Support/MobileSync/Backup
 ! **/Library/Containers/Mail
-! **/.local/pipx
-! **/.local/share
+#! **/.local/pipx
+#! **/.local/share
 
 ! **/Library/**/Developer/
 ! **/Software/mac
-! **/Software/macos
-! **/Download/temp
+! **/projects/scripts/test
 ! **Users/*/mount
+! **Users/*/mnt
 
 ! **/.nuget
 ! **/.rustup
@@ -25,3 +25,8 @@
 ! **/build/
 ! **/dist/
 ! **/vendor/
+! **/iphonebackup/
+! **/Movies/
+! **/iphone-backup/_unback_/
+! **/iphone-backup/rawbackups/
+
